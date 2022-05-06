@@ -1,5 +1,5 @@
 ---
-title: Makercademy
+title: MakerMex Academy
 ---
 ### ¿Qué es MakerMex Academy?
 MakerMex Academy es un sistema educativo que impulsa la enseñanza en nuevas tecnologías a niños, adolescentes y
