@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-### MakerCademy 
+### MakerMex Academy 
 
 ## Educación a prueba del futuro
 
